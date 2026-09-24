@@ -1,0 +1,7 @@
+{
+  "name": "concurso IA",
+  "description": "Plataforma inteligente de preparação exclusiva para Concursos Públicos. Cronograma adaptativo por edital, questões de bancas (Cebraspe, FGV, FCC, Cesgranrio), mapas mentais interativos, caderno de erros e discursivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
